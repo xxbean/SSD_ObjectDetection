@@ -1,7 +1,8 @@
 # SSD_ObjectDetection
 스타트업 데이어와 진행한 모델링 프로젝트
 
-##### pdf file Click [here](https://github.com/xxbean/SSD_ObjectDetection/files/7877028/default.pdf)
+#### pdf file Click [here](https://github.com/xxbean/SSD_ObjectDetection/files/7877207/DSL.1.pdf)
+---
 
 # Tooth detection 최종보고
 ## DSL 기업연계 프로젝트 1팀
